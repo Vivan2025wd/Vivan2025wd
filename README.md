@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vivan2025wd
 - 👀 I’m interested in futuristic projects.
-- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on Beginner Projects. 
 - 📫 just Msg me.
 - 😄 Pronouns: He
