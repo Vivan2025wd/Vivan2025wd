@@ -1,95 +1,130 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED HEADER                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# Hi, I'm Vivan 👋
+<img src="https://raw.githubusercontent.com/Vivan2025wd/Vivan2025wd/main/assets/header.svg" width="100%" alt="Vivan — Full-Stack & AI Systems Engineer"/>
 
-### Full-Stack & AI Systems Engineer
+<br/>
 
-**I build and ship production-grade web apps, autonomous multi-agent systems, and scalable backends — at 10x velocity.**
+<a href="https://github.com/Vivan2025wd">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=00E0FF&center=true&vCenter=true&width=900&lines=Full-Stack+%26+AI+Systems+Engineer;Next.js+%E2%80%A2+FastAPI+%E2%80%A2+Supabase+%E2%80%A2+Electron;I+ship+production+systems%2C+not+demos;Ship+fast.+Architect+clean.+Scale+without+rewrites." alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Vivan2025wd)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivanrakmitha5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivan2025wd)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vivan2025wd&style=for-the-badge&color=blueviolet&label=VISITORS)](https://github.com/Vivan2025wd)
+
+<br/>
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Vivan2025wd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 ---
 
 ## 🧠 About Me
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ```ts
 const vivan = {
   role:       "Full-Stack & AI Systems Engineer",
-  focus:      ["Production web apps", "Multi-agent AI", "Scalable backends"],
+  location:   "🇱🇰 Sri Lanka",
+  focus:      ["Production web apps", "Multi-agent AI", "Self-hosted software"],
   philosophy: "Ship fast. Architect clean. Scale without rewrites.",
-  stack:      ["TypeScript", "Python", "SQL", "Next.js", "FastAPI", "Supabase"],
+  stack:      ["TypeScript", "Python", "Next.js", "FastAPI", "Supabase", "Electron"],
   currently:  "Building autonomous AI systems + trilingual EdTech at scale",
+  openTo:     ["Freelance", "Collaboration", "Full-time roles"],
 };
 ```
 
-I don't build demos — I build **systems that hold up in production**. From server-side grading engines with anti-tampering logic, to hierarchical multi-agent trading architectures, to fully self-hosted encrypted desktop apps — everything I ship is designed to be fast, secure, and real.
+</td>
+<td width="45%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Vivan2025wd/Vivan2025wd/main/assets/terminal.svg" width="100%" alt="Terminal"/>
+
+</td>
+</tr>
+</table>
+
+I don't build demos — I build **systems that hold up in production**. From a trilingual exam engine with database-enforced invariants, to a hierarchical multi-agent trading architecture coordinated by a *"Mother AI"*, to a fully self-hosted encrypted desktop trading bot — everything I ship is designed to be **fast, secure, and real**.
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎓 [AISSA-Quiz](https://github.com/Vivan2025wd/AISSA-Quiz)
-> **Production Trilingual Exam & Analytics Engine** for Sri Lankan G.C.E. A/L students
+**Production Trilingual Exam Engine**
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-- 🌏 Trilingual examination system — **Sinhala · English · Tamil**
-- 🔒 **Anti-tampering** server-side grading engine with dynamic answer-key suppression
-- ⚡ **Real-time** WebSocket top-10 leaderboards
-- 📊 **Single-query** aggregated analytics via PostgreSQL RPC + RLS
+- 🌏 **Sinhala · English · Tamil** content
+- 🔒 DB-enforced invariants + RLS everywhere
+- ⚡ **Real-time** WebSocket leaderboards
+- 🧠 Single-query dashboards via PostgreSQL RPCs
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 [AI-TRADING-SETUP](https://github.com/Vivan2025wd/AI-TRADING-SETUP)
-> **Multi-Agent Algorithmic Trading & Backtesting Engine**
+**Multi-Agent Trading + Mother AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Binance](https://img.shields.io/badge/Binance_API-F0B90B?style=flat-square&logo=binance&logoColor=black)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
 
-- 🧬 **Hierarchical architecture** — 10+ asset-specific ML agents coordinated by a **"Mother AI"** meta-decision supervisor
-- 📈 Built-in **time-series backtesting engine** — Sharpe ratio, Max Drawdown, Win Rate
-- 🔌 Live Binance API integration with structured decision pipelines
+- 🧬 **10+ ML agents** + meta-decision Mother AI
+- 📈 Backtesting: Sharpe · MDD · Win Rate
+- 🏠 Self-hosted, offline-capable
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🛒 [WEB-store](https://github.com/Vivan2025wd/WEB-store)
-> **Full-Stack Multi-Vendor E-Commerce Platform**
+### 🛍️ [WEB-store](https://github.com/Vivan2025wd/WEB-store)
+**Multi-Vendor E-Commerce Platform**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-- 🏪 Seller storefronts with store creation + theming
-- 📦 Product CRUD with categories, tags, and inventory
-- 💳 Stripe-powered checkout with platform commission logic
-- 🔐 JWT auth + role-based access (seller / admin / buyer)
+- 🏪 Storefront creation + theming
+- 💳 Stripe Connect commission payouts
+- 🔐 Seller / Buyer / Admin RBAC
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 💹 [BTCUSDT-bot](https://github.com/Vivan2025wd/BTCUSDT-bot)
-> **Self-Hosted Algorithmic Crypto Trading Desktop App**
+**Self-Hosted Trading Desktop App**
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![AES-256](https://img.shields.io/badge/AES--256-Encrypted-red?style=flat-square)
 
-- 🖥️ Fully **self-hosted** — no third-party servers, no data leaks
-- 🔐 **AES-256 encryption** for API keys and local state
-- 💾 SQLite-backed trade history and analytics
+- 🛡 AES-256 encrypted keys, zero telemetry
+- 🔌 Binance + Bybit multi-exchange
+- 🎯 Risk mgmt · backtester · live charts
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -121,64 +156,116 @@ I don't build demos — I build **systems that hold up in production**. From ser
 **Data & Architecture**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 **DevOps & Integrations**
 
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Binance](https://img.shields.io/badge/Binance_API-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
+![Brevo](https://img.shields.io/badge/Brevo_API-0B996E?style=for-the-badge&logo=brevo&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vivan2025wd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivan2025wd&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivan2025wd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&border_radius=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivan2025wd&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&border_radius=12" />
 
-<br>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Vivan2025wd&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Vivan2025wd&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivan2025wd&theme=tokyo-night&hide_border=true&area=true&custom_title=Vivan%27s%20Contribution%20Graph" width="100%" />
 
 </div>
 
 ---
 
-## ⚡ What I'm About
+## ⚡ What Drives Me
 
-| 🚀 Shipping | 🧠 Building | 🎯 Optimizing |
-|---|---|---|
-| Production apps in weeks, not quarters | Autonomous multi-agent AI systems | Server-side security & RLS |
-| Trilingual platforms at scale | Hierarchical ML decision pipelines | Real-time WebSocket infra |
-| Zero-downtime deployments | End-to-end encrypted desktop apps | Single-query analytics |
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🚀
+**Ship Fast**
+
+Production apps in weeks — not quarters
+
+</td>
+<td align="center" width="25%">
+
+### 🧠
+**Build Smart**
+
+Autonomous agents & multi-layer AI systems
+
+</td>
+<td align="center" width="25%">
+
+### 🎯
+**Optimize**
+
+RLS, WebSocket infra, single-query analytics
+
+</td>
+<td align="center" width="25%">
+
+### 🛡️
+**Harden**
+
+Zero-cloud desktop apps, AES-256, zero telemetry
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Activity
+## 📈 Currently Building
 
-- 🔥 **283 contributions in 2025** · **59 and counting in 2026**
-- 🧩 Contributing across `AISSA-Quiz`, `AI-TRADING-SETUP`, `WEB-store`, `BTCUSDT-bot`, and more
-- 📚 Currently exploring: advanced agent orchestration + edge-deployed AI
+```yaml
+focused_on:
+  - name: "AISSA-Quiz"
+    status: "Scaling to 8 AISSA districts"
+    stack: [Next.js 16, Supabase, PostgreSQL RPCs]
+
+  - name: "AI-TRADING-SETUP"
+    status: "Extending Mother AI orchestration layer"
+    stack: [FastAPI, scikit-learn, Binance API]
+
+  - name: "WEB-store"
+    status: "Stripe Connect payouts + multi-tenant theming"
+    stack: [Node.js, Express, MongoDB, React]
+
+  - name: "BTCUSDT-bot"
+    status: "Multi-exchange integrations + portfolio analytics"
+    stack: [Electron, SQLite, AES-256]
+```
 
 ---
 
-## 📫 Get in Touch
+## 📫 Let's Connect
 
 <div align="center">
 
-**Open to freelance, collaboration, and full-time opportunities.**
+**Open to freelance · collaboration · full-time opportunities**
 
 [![Email](https://img.shields.io/badge/vivanrakmitha5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivanrakmitha5@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_@Vivan2025wd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivan2025wd)
 
-<br>
+<br/><br/>
 
 ⭐️ **If any of my projects helped you, drop a star — it means a lot.**
 
@@ -188,8 +275,8 @@ I don't build demos — I build **systems that hold up in production**. From ser
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vivan2025wd&style=for-the-badge&color=blueviolet)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Ship%20fast.%20Architect%20clean.%20Scale%20without%20rewrites.&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%" />
 
-*"Ship fast. Architect clean. Scale without rewrites."*
+**🇱🇰 Built in Sri Lanka · Shipping to the world 🌍**
 
 </div>
