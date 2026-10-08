@@ -1,15 +1,9 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADER                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vivan2025wd/Vivan2025wd/main/assets/header.svg" width="100%" alt="Vivan — Full-Stack & AI Systems Engineer"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:7C3AED&height=180&section=header&text=Vivan%20Rakmitha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20%26%20AI%20Systems%20Engineer&descAlignY=62&descSize=18" width="100%" />
 
 <a href="https://github.com/Vivan2025wd">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=00E0FF&center=true&vCenter=true&width=900&lines=Full-Stack+%26+AI+Systems+Engineer;Next.js+%E2%80%A2+FastAPI+%E2%80%A2+Supabase+%E2%80%A2+Electron;I+ship+production+systems%2C+not+demos;Ship+fast.+Architect+clean.+Scale+without+rewrites." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00E0FF&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+%26+AI+Systems+Engineer;Next.js+%E2%80%A2+FastAPI+%E2%80%A2+Supabase+%E2%80%A2+Electron;I+ship+production+systems%2C+not+demos" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,21 +13,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivan2025wd)
 [![Profile Views](https://komarev.com/ghpvc/?username=Vivan2025wd&style=for-the-badge&color=blueviolet&label=VISITORS)](https://github.com/Vivan2025wd)
 
-<br/>
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Vivan2025wd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
-
 </div>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 ---
 
 ## 🧠 About Me
-
-<table>
-<tr>
-<td width="55%" valign="top">
 
 ```ts
 const vivan = {
@@ -46,15 +30,6 @@ const vivan = {
   openTo:     ["Freelance", "Collaboration", "Full-time roles"],
 };
 ```
-
-</td>
-<td width="45%" valign="top">
-
-<img src="https://raw.githubusercontent.com/Vivan2025wd/Vivan2025wd/main/assets/terminal.svg" width="100%" alt="Terminal"/>
-
-</td>
-</tr>
-</table>
 
 I don't build demos — I build **systems that hold up in production**. From a trilingual exam engine with database-enforced invariants, to a hierarchical multi-agent trading architecture coordinated by a *"Mother AI"*, to a fully self-hosted encrypted desktop trading bot — everything I ship is designed to be **fast, secure, and real**.
 
@@ -177,16 +152,12 @@ I don't build demos — I build **systems that hold up in production**. From a t
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivan2025wd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&border_radius=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivan2025wd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&border_radius=12" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivan2025wd&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&border_radius=12" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Vivan2025wd&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivan2025wd&theme=tokyo-night&hide_border=true&area=true&custom_title=Vivan%27s%20Contribution%20Graph" width="100%" />
 
 </div>
 
@@ -217,7 +188,7 @@ Autonomous agents & multi-layer AI systems
 ### 🎯
 **Optimize**
 
-RLS, WebSocket infra, single-query analytics
+RLS · WebSocket infra · single-query analytics
 
 </td>
 <td align="center" width="25%">
@@ -225,7 +196,7 @@ RLS, WebSocket infra, single-query analytics
 ### 🛡️
 **Harden**
 
-Zero-cloud desktop apps, AES-256, zero telemetry
+Zero-cloud desktop apps · AES-256 · zero telemetry
 
 </td>
 </tr>
@@ -275,7 +246,7 @@ focused_on:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Ship%20fast.%20Architect%20clean.%20Scale%20without%20rewrites.&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:7C3AED&height=120&section=footer&text=Ship%20fast.%20Architect%20clean.%20Scale%20without%20rewrites.&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 **🇱🇰 Built in Sri Lanka · Shipping to the world 🌍**
 
