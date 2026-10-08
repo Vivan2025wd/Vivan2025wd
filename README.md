@@ -18,38 +18,35 @@
 
 ## 🚀 Featured Work
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🎓 [AISSA-Quiz](https://github.com/Vivan2025wd/AISSA-Quiz)
-
 **Trilingual Exam Engine**
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-🌏 Sinhala · English · Tamil  
-🔒 DB-enforced invariants + RLS  
-⚡ Real-time WebSocket leaderboards  
-📊 Single-query PostgreSQL RPC dashboards  
-🏫 Composite school rankings (`pg_trgm`)
+🌏 Sinhala · English · Tamil<br/>
+🔒 DB-enforced invariants + RLS<br/>
+⚡ Real-time WebSocket leaderboards<br/>
+📊 RPC dashboards + `pg_trgm` rankings
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 [AI-TRADING-SETUP](https://github.com/Vivan2025wd/AI-TRADING-SETUP)
-
 **Multi-Agent Trading + Mother AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Binance](https://img.shields.io/badge/Binance_API-F0B90B?style=flat-square&logo=binance&logoColor=black)
 
-🧬 10+ ML agents + meta-decision Mother AI  
-📈 Backtesting: Sharpe · MDD · Win Rate  
-🔧 JSON-first pluggable strategy engine  
+🧬 10+ ML agents + Mother AI<br/>
+📈 Backtesting: Sharpe · MDD · Win Rate<br/>
+🔧 JSON-first pluggable strategies<br/>
 🏠 Self-hosted, offline-capable
 
 </td>
@@ -58,32 +55,30 @@
 <td width="50%" valign="top">
 
 ### 🛍️ [WEB-store](https://github.com/Vivan2025wd/WEB-store)
-
 **Multi-Vendor E-Commerce**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-🏪 Storefront creation + theming  
-💳 Stripe Connect commission payouts  
-🔐 Seller · Buyer · Admin RBAC  
+🏪 Storefront creation + theming<br/>
+💳 Stripe Connect commission payouts<br/>
+🔐 Seller · Buyer · Admin RBAC<br/>
 📊 Revenue analytics + order mgmt
 
 </td>
 <td width="50%" valign="top">
 
 ### 💹 [BTCUSDT-bot](https://github.com/Vivan2025wd/BTCUSDT-bot)
-
 **Self-Hosted Trading Desktop App**
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![AES-256](https://img.shields.io/badge/AES--256-Encrypted-red?style=flat-square)
 
-🛡 AES-256 keys · zero telemetry  
-🔌 Binance + Bybit multi-exchange  
-🎯 Risk mgmt · backtester · live charts  
+🛡️ AES-256 keys · zero telemetry<br/>
+🔌 Binance + Bybit multi-exchange<br/>
+🎯 Risk mgmt · backtester · live charts<br/>
 📈 TradingView-style multi-timeframe
 
 </td>
@@ -92,7 +87,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -126,7 +121,7 @@
 
 ---
 
-## 📊 GitHub in Numbers
+## GitHub in Numbers
 
 <div align="center">
 
@@ -136,23 +131,10 @@
 
 ![Streak](https://streak-stats.demolab.com?user=Vivan2025wd&theme=tokyonight&hide_border=true&border_radius=12&fire=00E0FF&ring=7C3AED)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivan2025wd&theme=tokyo-night&hide_border=true&area=true&custom_title=Vivan%27s%20Contribution%20Graph)
-
 </div>
 
----
 
-## 🏔️ My 3D Contribution Graph
-
-<div align="center">
-
-![3D Contribution Graph](https://raw.githubusercontent.com/Vivan2025wd/Vivan2025wd/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Devoured
+## Watch My Contributions Get Devoured
 
 <div align="center">
 
@@ -161,25 +143,15 @@
 
 </div>
 
----
 
-## 📈 GitHub Metrics
 
-<div align="center">
-
-![Metrics](https://raw.githubusercontent.com/Vivan2025wd/Vivan2025wd/main/metrics.svg)
-
-</div>
-
----
-
-## ⚡ What Drives Me
+## What Drives Me
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
 
-### 🚀
+### 
 
 **Ship Fast**
 
@@ -188,7 +160,7 @@ Production apps in weeks, not quarters
 </td>
 <td align="center" width="25%">
 
-### 🧠
+### 
 
 **Build Smart**
 
@@ -197,7 +169,7 @@ Autonomous agents & multi-layer AI
 </td>
 <td align="center" width="25%">
 
-### 🎯
+### 
 
 **Optimize**
 
@@ -206,7 +178,7 @@ RLS · WebSockets · single-query analytics
 </td>
 <td align="center" width="25%">
 
-### 🛡️
+### 
 
 **Harden**
 
@@ -218,7 +190,7 @@ Zero-cloud apps · AES-256 · no telemetry
 
 ---
 
-## 📫 Let's Build Something
+##  Let's Build Something
 
 <div align="center">
 
@@ -229,7 +201,7 @@ Zero-cloud apps · AES-256 · no telemetry
 
 <br/>
 
-⭐️ **If any of my projects helped you, drop a star — it means a lot.**
+**If any of my projects helped you, drop a star — it means a lot.**
 
 <br/>
 
