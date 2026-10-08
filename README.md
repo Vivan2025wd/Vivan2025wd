@@ -15,6 +15,7 @@
 
 </div>
 
+---
 
 ## 🚀 Featured Work
 
@@ -87,7 +88,7 @@
 
 ---
 
-##  Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -121,7 +122,7 @@
 
 ---
 
-## GitHub in Numbers
+## 📊 GitHub in Numbers
 
 <div align="center">
 
@@ -133,8 +134,19 @@
 
 </div>
 
+---
 
-## Watch My Contributions Get Devoured
+## 🏔️ My 3D Contribution Graph
+
+<div align="center">
+
+![3D Contribution Graph](https://raw.githubusercontent.com/Vivan2025wd/Vivan2025wd/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Devoured
 
 <div align="center">
 
@@ -143,15 +155,25 @@
 
 </div>
 
+---
 
+## 📈 GitHub Metrics
 
-## What Drives Me
+<div align="center">
+
+![Metrics](https://raw.githubusercontent.com/Vivan2025wd/Vivan2025wd/main/metrics.svg)
+
+</div>
+
+---
+
+## ⚡ What Drives Me
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
 
-### 
+### 🚀
 
 **Ship Fast**
 
@@ -160,7 +182,7 @@ Production apps in weeks, not quarters
 </td>
 <td align="center" width="25%">
 
-### 
+### 🧠
 
 **Build Smart**
 
@@ -169,7 +191,7 @@ Autonomous agents & multi-layer AI
 </td>
 <td align="center" width="25%">
 
-### 
+### 🎯
 
 **Optimize**
 
@@ -178,7 +200,7 @@ RLS · WebSockets · single-query analytics
 </td>
 <td align="center" width="25%">
 
-### 
+### 🛡️
 
 **Harden**
 
@@ -190,7 +212,7 @@ Zero-cloud apps · AES-256 · no telemetry
 
 ---
 
-##  Let's Build Something
+## 📫 Let's Build Something
 
 <div align="center">
 
@@ -201,7 +223,7 @@ Zero-cloud apps · AES-256 · no telemetry
 
 <br/>
 
-**If any of my projects helped you, drop a star — it means a lot.**
+⭐️ **If any of my projects helped you, drop a star — it means a lot.**
 
 <br/>
 
