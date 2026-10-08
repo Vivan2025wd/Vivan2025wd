@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vivan Rakmitha
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Vivan%20Rakmitha&fontSize=55&fontColor=ffffff&fontAlignY=45)
 
 ### Full-Stack & AI Systems Engineer
 
@@ -15,7 +15,6 @@
 
 </div>
 
----
 
 ## 🚀 Featured Work
 
@@ -143,12 +142,32 @@
 
 ---
 
+## 🏔️ My 3D Contribution Graph
+
+<div align="center">
+
+![3D Contribution Graph](https://raw.githubusercontent.com/Vivan2025wd/Vivan2025wd/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+---
+
 ## 🐍 Watch My Contributions Get Devoured
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/Vivan2025wd/Vivan2025wd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Snake animation](https://raw.githubusercontent.com/Vivan2025wd/Vivan2025wd/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
+---
+
+## 📈 GitHub Metrics
+
+<div align="center">
+
+![Metrics](https://raw.githubusercontent.com/Vivan2025wd/Vivan2025wd/main/metrics.svg)
 
 </div>
 
