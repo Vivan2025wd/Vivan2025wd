@@ -36,4 +36,4 @@ I build and ship production-grade web applications, autonomous multi-agent syste
 
 ---
 
-📫 **Get in touch:** `vivanrakmitha5@gmail.com` • [LinkedIn](https://linkedin.com/in/yourprofile)
+📫 **Get in touch:** `vivanrakmitha5@gmail.com` 
